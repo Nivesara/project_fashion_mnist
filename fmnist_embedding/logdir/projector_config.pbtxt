@@ -1,0 +1,9 @@
+embeddings {
+  tensor_name: "fmnist_embedding:0"
+  metadata_path: "C:\\Users\\NIVESARA\\Desktop\\ml_project\\fmnist_embedding\\logdir\\metadata.tsv"
+  sprite {
+    image_path: "C:\\Users\\NIVESARA\\Desktop\\ml_project\\fmnist_embedding\\logdir\\sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+}
